@@ -1,2 +1,2 @@
-# loop-vid-site
-A static html which loops video infinitely for setting wallpaper using plash for macOs
+# WebScreenSaver
+A static html which contains transclucent iamge for setting wallpaper using webScreenSaver for macOs
